@@ -1,19 +1,17 @@
-## Hi there 👋
-Hi there! 👋 I'm Saniya
-A 20-year-old Computer Science undergraduate currently in my 3rd year, passionate about building and learning.
-What I'm currently working on:
+hii its saniya,
+a 20 year old, currently in my 3rd year of undergrad in cs. i am learning ml/dl, web development and making projects related to it.
+basically i am in my learning & building phase.
 
-Learning Machine Learning & Deep Learning
-Exploring Web Development
-Building projects to apply my skills
+currently exploring: machine learning, deep learning, full-stack development
 
-Skills & Tools:
+skills
+•	html, css
+•	javascript
+•	react
+•	python
+•	numpy, pandas
 
-Frontend: HTML, CSS, JavaScript, React
-Programming: Python
-Data Science: NumPy, Pandas
-
-I'm always open to new opportunities to learn and grow!
+i'm always open for new opportunities to learn and grow.
 
 <!--
 **Saniya803/Saniya803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
